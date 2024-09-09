@@ -1,7 +1,7 @@
 title: "Review The Hype"
 email: reviewthehype@gmail.com
 timezone: Australia/Sydney
-baseurl: "/affiliates-jekyll-theme"
+baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
