@@ -4,7 +4,7 @@ timezone: Australia/Sydney
 baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/reviewthehypelogo.webp'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/reviewthehypelogo.webp'
 author: Sal
 paginate: 30
 disqus: 'reviewTheHype'
