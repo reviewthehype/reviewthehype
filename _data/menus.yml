@@ -4,14 +4,15 @@ topmenu:
 - title: Home
   url: ""
 
-#- title: About
-#  url: "about/"
-
 - title: Contact
   url: "contact/"
 
   - title: Travel
   url: "travel/"
+
+#- title: About
+#  url: "about/"
+
 #- title: Get this theme  
 #  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
 #  class: "ml-2 btn btn-dark text-white px-3"
