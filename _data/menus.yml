@@ -7,7 +7,7 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-  - title: Travel
+- title: Travel
   url: "travel/"
 
 #- title: About
