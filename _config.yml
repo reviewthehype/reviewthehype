@@ -3,8 +3,8 @@ email: reviewthehype@gmail.com
 timezone: Australia/Sydney
 baseurl: "/"
 permalink: "/:title/"
-logo: 'assets/images/reviewthehypelogo.webp'
-favicon: 'assets/images/reviewthehypelogo.webp'
+logo: 'assets/images/ReviewTheHype_Logo_40x40.png'
+favicon: 'assets/images/ReviewTheHype_Logo_40x40.png'
 author: Sal
 paginate: 30
 disqus: 'reviewTheHype'
