@@ -1,14 +1,20 @@
 # Top Menu
 topmenu:
 
-- title: Home
-  url: ""
-
-- title: Contact
-  url: "contact/"
-
 - title: Travel
-  url: "travel/"
+  url: "Travel/"
+
+- title: Tech
+  url: "tech/"
+  
+- title: Health
+  url: "Health/"
+  
+- title: Fashion
+  url: "Fashion/"
+
+- title: Get Your Product Reviewed
+  url: "contact/"
 
 #- title: About
 #  url: "about/"
