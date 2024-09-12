@@ -13,6 +13,9 @@ topmenu:
 - title: Fashion
   url: "Fashion/"
 
+- title: Retail
+  url: "Retail/"
+  
 - title: Review your Product
   url: "contact/"
 
