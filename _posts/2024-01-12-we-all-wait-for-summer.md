@@ -109,7 +109,7 @@ While this guide provides the best information for planning your Northern Lights
 Remember, the best time to see the Northern Lights in Iceland is during the winter months, from late September to late March, with peak visibility typically from November to February. But with proper planning, a bit of luck, and the right conditions, you might witness one of nature's most spectacular shows at various times throughout this period.
 Whether you're standing on a black sand beach, soaking in a hot spring, or surrounded by snow-capped mountains, the moment when the sky comes alive with dancing lights is truly unforgettable. So pack your warmest clothes, bring your sense of adventure, and prepare for a magical experience in the land of fire and ice. The Northern Lights of Iceland are calling – will you answer?
 
-[iceland1]: https://talk.jekyllrb.co
+[iceland1]: https://www.visiticeland.com
 [Thingvellir]: https://www.thingvellir.is
 [jokul]: https://icelagoon.is
 [kurkjufell]: https://www.zigzagonearth.com/
