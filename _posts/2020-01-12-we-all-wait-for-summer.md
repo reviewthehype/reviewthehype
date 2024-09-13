@@ -24,6 +24,8 @@ Milder Weather: Temperatures are not as extreme as in mid-winter, making outdoor
 Less Tourism: Fewer tourists mean less competition for accommodation and tours.
 Balanced Daylight: You'll have a mix of daylight hours for exploring Iceland's other attractions and dark nights for Aurora hunting.
 
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@trekkingallovertheworld/video/7209189182604954886" data-video-id="7209189182604954886" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@trekkingallovertheworld" href="https://www.tiktok.com/@trekkingallovertheworld?refer=embed">@trekkingallovertheworld</a> Just a normal night in Iceland.🙂💖 | @vincentledvina <a title="auroraborealis" target="_blank" href="https://www.tiktok.com/tag/auroraborealis?refer=embed">#auroraborealis</a> <a title="iceland" target="_blank" href="https://www.tiktok.com/tag/iceland?refer=embed">#iceland</a> <a title="traveltiktok" target="_blank" href="https://www.tiktok.com/tag/traveltiktok?refer=embed">#traveltiktok</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a target="_blank" title="♬ september sparky deathcap - ❀" href="https://www.tiktok.com/music/september-sparky-deathcap-7181454336311282437?refer=embed">♬ september sparky deathcap - ❀</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
 Factors Affecting Northern Lights Visibility
 While the season is crucial, several other factors influence your chances of seeing the Northern Lights:
 1. Solar Activity
