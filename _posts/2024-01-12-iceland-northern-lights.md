@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Absolute Best Time To See The Northern Lights n Iceland: A Complete Guide"
+title:  "The Absolute Best Time To See The Northern Lights In Iceland: A Complete Guide"
 author: sev
 categories: [ Travel ]
 image: assets/images/northern lights.jpg
