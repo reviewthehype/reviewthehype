@@ -5,7 +5,7 @@ baseurl: "/"
 permalink: "/:title/"
 logo: 'assets/images/ReviewTheHype_Logo_40x40.png'
 favicon: 'assets/images/ReviewTheHype_Logo_40x40.png'
-author: Sal
+author: sev
 paginate: 30
 disqus: 'reviewTheHype'
 locale: en_us
@@ -24,7 +24,7 @@ ganalytics: UA-113961478-1
 
 # Authors
 authors:
-  sal:
+  sev:
     name: Sev
     display_name: Sev
     avatar: 'assets/images/sev.png'
@@ -32,10 +32,10 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
+  termi:
     name: termi
     display_name: termi
-    avatar: 'assets/images/john.png'
+    avatar: 'assets/images/termi.png'
     email: hello@reviewthehype.com
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
