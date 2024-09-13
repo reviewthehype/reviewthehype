@@ -41,11 +41,11 @@ A full moon can wash out the visibility of fainter Auroras. Planning your trip d
 ### Best Locations for Northern Lights Viewing in Iceland
 While the Northern Lights can potentially be seen from anywhere in Iceland, some locations offer better viewing opportunities:
 
-1. **[Thingvellir National Park][Thingvellir]**: Located about 40 km northeast of Reykjavik, this UNESCO World Heritage site offers dark skies and stunning landscapes.
-2. **[Jökulsárlón Glacier Lagoon][jokul]**: In southeast Iceland, this location offers the unique opportunity to see the Northern Lights reflected in the still waters of the lagoon.
-3. **[Kirkjufell Mountain][kurkjufell]**: On the north coast of the Snæfellsnes peninsula, this distinctive mountain provides a dramatic foreground for Aurora photography.
-4. **[Akureyri and Lake Myvatn][akurey]**: In northern Iceland, these locations offer excellent viewing opportunities and are often less cloudy than the south.
-5. **[Westfjords][westfjords]: This remote region offers some of the darkest skies in Iceland, perfect for Aurora viewing.
+1. **[Thingvellir National Park][Thingvellir]:** Located about 40 km northeast of Reykjavik, this UNESCO World Heritage site offers dark skies and stunning landscapes.
+2. **[Jökulsárlón Glacier Lagoon][jokul]:** In southeast Iceland, this location offers the unique opportunity to see the Northern Lights reflected in the still waters of the lagoon.
+3. **[Kirkjufell Mountain][kurkjufell]:** On the north coast of the Snæfellsnes peninsula, this distinctive mountain provides a dramatic foreground for Aurora photography.
+4. **[Akureyri and Lake Myvatn][akurey]:** In northern Iceland, these locations offer excellent viewing opportunities and are often less cloudy than the south.
+5. **[Westfjords][westfjords]:** This remote region offers some of the darkest skies in Iceland, perfect for Aurora viewing.
 
 ### Planning Your Northern Lights Trip to Iceland
 #### When to Book
