@@ -3,11 +3,9 @@ layout: post
 title:  "Santorini's Hidden Sunset Spots: Escape the Crowds for Breathtaking Views"
 author: sev
 categories: [ Travel ]
-image: assets/images/Santorini sunset.jpg
-
+image: assets/images/northern lights.jpg
 description: "Discover Santorini's secret sunset viewing spots away from the tourist crowds. Enjoy breathtaking views in peace with our insider guide to the island's hidden gems."
 ---
-
 # Santorini's Hidden Sunset Spots: Escape the Crowds for Breathtaking Views
 
 To enjoy Santorini's sunset away from tourists, visit these lesser-known spots:
