@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " How Good is the Sleep Apnea Tracker on the Apple Watch 10?"
+title:  "How Good is the Sleep Apnea Tracker on the Apple Watch 10?"
 author: sev
 categories: [ Tech ][ Health ][ Retail ][ Fashion ]
 image: assets/images/Apple watch 10.jpg
