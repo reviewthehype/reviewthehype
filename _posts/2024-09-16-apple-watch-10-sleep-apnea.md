@@ -5,7 +5,7 @@ author: sev
 categories: [ Tech ] [ Health ]
 image: assets/images/Apple watch 10.jpg
 ---
-aaaa
+
 The Sleep Apnea Tracker on the Apple Watch 10 is a valuable tool for initial screening, raising awareness, and prompting users to seek medical advice. However, it does not replace professional medical diagnosis or a comprehensive sleep study. It is ideal for people who may be unaware of their condition or hesitant to undergo a formal sleep evaluation.
 
 
